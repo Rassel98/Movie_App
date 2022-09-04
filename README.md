@@ -1,5 +1,9 @@
 # movie_app
 
+
+
+<img src="https://user-images.githubusercontent.com/101389853/188318351-3251e352-3cf6-49be-87e7-d4a6cf8b4777.gif" alt="Girl in a jacket" height="600">
+
 A new Flutter project.
 
 ## Getting Started
